@@ -1,0 +1,116 @@
+{
+  "uploadVideo": [
+    {
+      "id": "c030",
+      "caption": "Rifle club",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTMxMGY5NDctMTgzZi00NDcyLWIwNTItNTJmMDUzMWFlMDNhXkEyXkFqcGc@._V1_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/_HacZSM24mA"
+    },
+    {
+      "id": "32dd",
+      "caption": "film2",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZGUwMjlkZDktMGJiNi00YmU4LWIwMmEtYTgxZDVlN2E0MTJjXkEyXkFqcGc@._V1_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/BcDK7lkzzsU"
+    },
+    {
+      "id": "43ae",
+      "caption": "film",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuPozkGKd1Bw9vymLIxZdBFx06dKNeHgrWKg&s",
+      "youtubeLink": "https://www.youtube.com/embed/3IqGqL-FyQk"
+    }
+  ],
+  "categories": [
+    {
+      "id": "b30c",
+      "CategoryName": "Trailer",
+      "allVideos": [
+        {
+          "id": "c030",
+          "caption": "Rifle club",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTMxMGY5NDctMTgzZi00NDcyLWIwNTItNTJmMDUzMWFlMDNhXkEyXkFqcGc@._V1_.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/_HacZSM24mA"
+        },
+        {
+          "id": "c5df",
+          "caption": "Sting",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYg-9XWuUCdx_GVpSKKWICfD0OHb6Iaqz-Q&s",
+          "youtubeLink": "https://www.youtube.com/embed/JMNOaJOWICo"
+        }
+      ]
+    },
+    {
+      "id": "e1ae",
+      "CategoryName": "Songs",
+      "allVideos": [
+        {
+          "id": "f1a4",
+          "caption": "demo1",
+          "imgUrl": "https://www.cinemaglitz.com/wp-content/uploads/2015/11/cinemaglitz-tamasha-movie-review-02.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/6vKucgAeF_Q"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "638a",
+      "caption": "film",
+      "youtubeLink": "https://www.youtube.com/embed/3IqGqL-FyQk",
+      "timestamp": "12/19/2024, GMT+5:30"
+    },
+    {
+      "id": "ea98",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/G3e-cpL7ofc",
+      "timestamp": "12/19/2024, GMT+5:30"
+    },
+    {
+      "id": "e12b",
+      "caption": "film",
+      "youtubeLink": "https://www.youtube.com/embed/3IqGqL-FyQk",
+      "timestamp": "12/19/2024, GMT+5:30"
+    },
+    {
+      "id": "6761",
+      "caption": "demo1",
+      "youtubeLink": "https://www.youtube.com/embed/6vKucgAeF_Q",
+      "timestamp": "12/19/2024, GMT+5:30"
+    },
+    {
+      "id": "c1af",
+      "caption": "demo",
+      "youtubeLink": "https://www.youtube.com/embed/G3e-cpL7ofc",
+      "timestamp": "12/19/2024, GMT+5:30"
+    },
+    {
+      "id": "d1d4",
+      "caption": "demo1",
+      "youtubeLink": "https://www.youtube.com/embed/6vKucgAeF_Q",
+      "timestamp": "12/26/2024, GMT+5:30"
+    },
+    {
+      "id": "8abd",
+      "caption": "demo1",
+      "youtubeLink": "https://www.youtube.com/embed/6vKucgAeF_Q",
+      "timestamp": "12/28/2024, GMT+5:30"
+    },
+    {
+      "id": "a751",
+      "caption": "film",
+      "youtubeLink": "https://www.youtube.com/embed/_7Va6zHykD4",
+      "timestamp": "12/30/2024, GMT+5:30"
+    },
+    {
+      "id": "debe",
+      "caption": "Smile",
+      "youtubeLink": "https://www.youtube.com/embed/BcDK7lkzzsU",
+      "timestamp": "12/30/2024, GMT+5:30"
+    },
+    {
+      "id": "801d",
+      "caption": "Smile",
+      "youtubeLink": "https://www.youtube.com/embed/BcDK7lkzzsU",
+      "timestamp": "12/30/2024, GMT+5:30"
+    }
+  ]
+}
